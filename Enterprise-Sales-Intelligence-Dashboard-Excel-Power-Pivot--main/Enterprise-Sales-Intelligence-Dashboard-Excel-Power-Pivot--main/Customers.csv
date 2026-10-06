@@ -1,0 +1,101 @@
+CustomerID,Location,Segment
+1001,Urban,Small Business
+1002,Rural,Consumer
+1003,Urban,Small Business
+1004,Rural,Small Business
+1005,Rural,Corporate
+1006,Urban,Corporate
+1007,Urban,Consumer
+1008,Rural,Small Business
+1009,Suburban,Small Business
+1010,Urban,Small Business
+1011,Suburban,Consumer
+1012,Suburban,Consumer
+1013,Suburban,Corporate
+1014,Urban,Consumer
+1015,Suburban,Small Business
+1016,Urban,Small Business
+1017,Suburban,Consumer
+1018,Rural,Small Business
+1019,Rural,Small Business
+1020,Urban,Consumer
+1021,Rural,Consumer
+1022,Rural,Small Business
+1023,Suburban,Small Business
+1024,Urban,Small Business
+1025,Suburban,Corporate
+1026,Suburban,Corporate
+1027,Suburban,Corporate
+1028,Suburban,Consumer
+1029,Suburban,Corporate
+1030,Suburban,Consumer
+1031,Suburban,Consumer
+1032,Urban,Corporate
+1033,Rural,Corporate
+1034,Suburban,Corporate
+1035,Suburban,Small Business
+1036,Suburban,Corporate
+1037,Suburban,Small Business
+1038,Suburban,Consumer
+1039,Suburban,Small Business
+1040,Rural,Corporate
+1041,Rural,Consumer
+1042,Suburban,Consumer
+1043,Rural,Consumer
+1044,Urban,Small Business
+1045,Suburban,Corporate
+1046,Urban,Consumer
+1047,Urban,Consumer
+1048,Suburban,Consumer
+1049,Rural,Small Business
+1050,Urban,Small Business
+1051,Suburban,Corporate
+1052,Urban,Small Business
+1053,Urban,Consumer
+1054,Urban,Corporate
+1055,Urban,Consumer
+1056,Rural,Consumer
+1057,Urban,Small Business
+1058,Urban,Corporate
+1059,Urban,Small Business
+1060,Rural,Small Business
+1061,Urban,Corporate
+1062,Urban,Consumer
+1063,Rural,Consumer
+1064,Rural,Corporate
+1065,Rural,Consumer
+1066,Urban,Corporate
+1067,Rural,Corporate
+1068,Rural,Small Business
+1069,Urban,Corporate
+1070,Rural,Small Business
+1071,Urban,Consumer
+1072,Suburban,Consumer
+1073,Rural,Consumer
+1074,Suburban,Consumer
+1075,Urban,Small Business
+1076,Rural,Consumer
+1077,Urban,Corporate
+1078,Suburban,Corporate
+1079,Urban,Corporate
+1080,Rural,Small Business
+1081,Rural,Consumer
+1082,Suburban,Consumer
+1083,Urban,Consumer
+1084,Rural,Small Business
+1085,Suburban,Corporate
+1086,Rural,Corporate
+1087,Rural,Consumer
+1088,Urban,Corporate
+1089,Rural,Corporate
+1090,Urban,Small Business
+1091,Rural,Small Business
+1092,Suburban,Small Business
+1093,Rural,Small Business
+1094,Urban,Consumer
+1095,Urban,Small Business
+1096,Suburban,Corporate
+1097,Rural,Consumer
+1098,Rural,Corporate
+1099,Suburban,Corporate
+1100,Rural,Corporate
